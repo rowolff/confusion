@@ -2,6 +2,7 @@
 /fonts
 /img
 /js
+/bower_components
 *.PNG
 index_login.html
 index_tooltip.html

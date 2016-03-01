@@ -1,0 +1,27 @@
+{
+  "name": "confusion",
+  "homepage": "https://github.com/rowolff/confusion",
+  "authors": [
+    "Robert Wolff <ro.wolff@gmx.net>"
+  ],
+  "description": "exercise page",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "confusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
